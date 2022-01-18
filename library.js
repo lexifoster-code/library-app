@@ -10,6 +10,13 @@ const myLibrary=["the fault in our stars, games of thrones, street vengance ,nar
 //create a function that loops through the array and returns a specific display pattern.
 //also allowing for user input to be displayed
 
+var titleInput = document.getElementById()
+var authorInput = document.getElementById()
+var descriptionInput = document.getElementById()
+var pageInput = document.getElementById()
+var ratingInput = document.getElementById()
+
+// UI function
 function addToLibrary(){
 
 }
